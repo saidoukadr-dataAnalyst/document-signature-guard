@@ -1,4 +1,4 @@
-# Maroc Digital Trust Gateway
+# Document Signature Guard
 
 Prototype Python de système anti-falsification documentaire, consacré à la signature numérique des PDF et à la traçabilité des opérations.
 
@@ -91,7 +91,7 @@ Les fichiers de clés, certificats privés, secrets et le dossier `security_vaul
 
 ## Présentation du projet
 
-**Maroc Digital Trust Gateway — Signature numérique et anti-falsification documentaire.**
+**Document Signature Guard — Signature numérique et anti-falsification documentaire.**
 Prototype Python combinant SHA-256, ECDSA, QR codes et intégration PAdES pour explorer la protection et la traçabilité des PDF. Modules complémentaires : authentification, journal d'audit, OCR/DLP, workflows et ancrage blockchain optionnel.
 
-[Code source](https://github.com/saidoukadr-dataAnalyst/maroc-digital-trust) · [Dépôt du portfolio](https://github.com/saidoukadr-dataAnalyst/portfolio)
+[Code source](https://github.com/saidoukadr-dataAnalyst/document-signature-guard) · [Dépôt du portfolio](https://github.com/saidoukadr-dataAnalyst/portfolio)
